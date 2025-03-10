@@ -40,3 +40,7 @@ To view the webpage, open `index.html` in a web browser. The webpage will displa
 - Remixicon for icons: [Remixicon](https://cdn.jsdelivr.net/npm/remixicon@4.3.0/fonts/remixicon.css)
 - Google Fonts for "Montserrat": [Google Fonts](https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap)
 
+## Screenshot
+
+  ![image](https://github.com/user-attachments/assets/732b55b2-50ae-4dc5-95b3-b2fbb17ccb68)
+
