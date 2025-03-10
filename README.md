@@ -1,3 +1,5 @@
 ## Note ⚠️
 
-### This repositry includes the project that i have done while building my expertise in the Html ,CSS  and started exploring the front-end development journey.
+<p align="center">
+    This repository includes the projects that I have done while building my expertise in HTML, CSS, and exploring my front-end development journey.
+</p>
