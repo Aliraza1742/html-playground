@@ -51,3 +51,6 @@ To view the landing page, open the `index.html` file in a web browser.
 - [Google Fonts](https://fonts.googleapis.com)
 - [Remix Icon](https://cdn.jsdelivr.net/npm/remixicon@4.3.0/fonts/remixicon.css)
 
+## Screenshot
+
+    ![image](https://github.com/user-attachments/assets/0ad09fbb-6962-4383-b4f9-a70b209eb32a)
