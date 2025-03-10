@@ -1,4 +1,4 @@
-# Project-2
+# Practice Project-2
 
 ## Overview
 This project is a simple webpage named "Practice Project-2". It showcases a navigation bar, an introduction section, a main image, an about section, and a work section with descriptions.
