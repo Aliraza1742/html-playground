@@ -53,4 +53,5 @@ To view the landing page, open the `index.html` file in a web browser.
 
 ## Screenshot
 
-    ![image](https://github.com/user-attachments/assets/0ad09fbb-6962-4383-b4f9-a70b209eb32a)
+    ![image](https://github.com/user-attachments/assets/188158b2-62a6-4636-b194-31a50b1dc114)
+
