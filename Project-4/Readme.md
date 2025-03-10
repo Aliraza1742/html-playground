@@ -44,3 +44,8 @@ To view the webpage, open `index.html` in a web browser. The webpage will displa
 - Remixicon for icons: [Remixicon](https://cdn.jsdelivr.net/npm/remixicon@4.3.0/fonts/remixicon.css)
 - Google Fonts for "Inter": [Google Fonts](https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap)
 
+## Screenshot
+
+  ![image](https://github.com/user-attachments/assets/ac45d9d8-dfca-4e54-934b-da3545b0fb4c)
+
+

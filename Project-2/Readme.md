@@ -40,3 +40,7 @@ To view the webpage, open `index.html` in a web browser. The webpage will displa
 - Remixicon for icons: [Remixicon](https://cdn.jsdelivr.net/npm/remixicon@4.3.0/fonts/remixicon.css)
 - Google Fonts for "Montserrat" and "Nunito Sans": [Google Fonts](https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap)
 
+## Screenshot
+
+  ![image](https://github.com/user-attachments/assets/b6d7275c-2b1c-4038-a6fc-6fe7a0cfdc67)
+
